@@ -258,10 +258,13 @@ nav ul li a:hover::after{
     font-size: 14px;
 
 }
-.layer h3{
+.layer p {
     padding-top: 60px;
+}
+.project-title {
     font-weight: 500;
-    margin-bottom: 20px;
+    margin-top: 15px;
+    text-align: center;
 }
 .layer a{
     margin-top: 20px;
